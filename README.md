@@ -54,7 +54,7 @@ Whether you are a student, researcher, or hobbyist, RoboX provides the industria
 ## Contact & Links
 *   **Official Website & Blog**: [https://roboxsoftware.wordpress.com/](https://roboxsoftware.wordpress.com/)
 *   **Contact Email**: techinfo.robox@gmail.com
-
+*   **Community Forum**: https://github.com/RoboXSoftware/RoboX/discussions
 ---
 
 > **RoboX: One Platform. Infinite Possibilities.**
