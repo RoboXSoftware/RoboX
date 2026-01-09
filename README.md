@@ -6,9 +6,9 @@ Welcome to the world of **RoboX**, where the boundaries between your imagination
 
 | [![1](images/1.jpg)](images/1.jpg) | [![2](images/2.jpg)](images/2.jpg) |
 |:---:|:---:|
-| *Описание фото 1* | *Описание фото 2* |
+| *Main page* | *Settings page* |
 | [![3](images/3.jpg)](images/3.jpg) | [![4](images/4.jpg)](images/4.jpg) |
-| *Описание фото 3* | *Описание фото 4* |
+| *Project editor* | *Script editor* |
 
 ---
 
