@@ -4,13 +4,11 @@ Welcome to the world of **RoboX**, where the boundaries between your imagination
 
 **One Platform. Infinite Possibilities.**
 
-<div align="center">
-  <img src="images/1.jpg" width="45%">
-  <img src="images/2.jpg" width="45%">
-  <br>
-  <img src="images/3.jpg" width="45%">
-  <img src="images/4.jpg" width="45%">
-</div>
+| [![1](images/1.jpg)](images/1.jpg) | [![2](images/2.jpg)](images/2.jpg) |
+|:---:|:---:|
+| *Описание фото 1* | *Описание фото 2* |
+| [![3](images/3.jpg)](images/3.jpg) | [![4](images/4.jpg)](images/4.jpg) |
+| *Описание фото 3* | *Описание фото 4* |
 
 ---
 
