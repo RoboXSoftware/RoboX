@@ -62,6 +62,8 @@ Whether you are a student, researcher, or hobbyist, RoboX provides the industria
 *   **Contact Email**: techinfo.robox@gmail.com
 *   **Community Forum**: https://github.com/RoboXSoftware/RoboX/discussions
 *   **YouTube Channel**: https://youtube.com/@roboxsoftware?si=t7OGUThM2kjYaq_l
+*   **Howto**: https://roboxsoftware.wordpress.com/tutorials/
+
 ---
 
 > **RoboX: One Platform. Infinite Possibilities.**
